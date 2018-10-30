@@ -6,7 +6,7 @@ relies on the Angular CLI to build the application.
 
 Looking for expert onsite Angular/TypeScript training? We've trained the biggest (and smallest :-)) companies around the world for over 15 years. For more information visit https://codewithdan.com.
 
-## Angular Concepts Covered
+## Angular Concepts Covered1
 
 * TypeScript version that relies on classes and modules
 * Modules are loaded with System.js
